@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Aula-00"
 // Função :
 // Autor :
 // Data : 13/12/2022
@@ -6,5 +6,6 @@ algoritmo "semnome"
 var
 
 inicio
-Escreva("Oá, mundo!")
+Escreval("Olá, mundo!")
+Escreval("Olá, mundo!")
 fimalgoritmo
